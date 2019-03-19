@@ -12,8 +12,9 @@ def argue(phrase)
   phrase = "I'm right and you are wrong!"
 end
 
-def greeting
-
+def greeting(greeting,name)
+  greeting = "Hi there, "
+  name = "Bobby!"
 end
 
 def return_a_value
